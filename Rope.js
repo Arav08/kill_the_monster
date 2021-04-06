@@ -17,7 +17,6 @@ class Rope {
 
   fly() {
     this.rope.bodyA = null;
-    strokeWeight(0)
   }
 
   display() {
